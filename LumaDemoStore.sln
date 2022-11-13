@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LumaDemoStore", "LumaDemoStore.csproj", "{08D4A936-1072-4DF5-929A-DCD62BA9CE55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08D4A936-1072-4DF5-929A-DCD62BA9CE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D4A936-1072-4DF5-929A-DCD62BA9CE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D4A936-1072-4DF5-929A-DCD62BA9CE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D4A936-1072-4DF5-929A-DCD62BA9CE55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D7121FD-F751-417D-A2AF-E0ECCBBDED15}
+	EndGlobalSection
+EndGlobal
